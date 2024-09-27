@@ -1,0 +1,7 @@
+/data/Root_content/Vaani/Language_identification_whole_data/Dataset/*
+*.wav
+*.pt
+./Dataset/dataWmT.json
+./CSVs/CSVs_with_link/Supported_facebook/HINDI_predicted_labels.csv
+./CSVs/CSVs_with_link/Supported_facebook/BENGALI_predicted_labels.csv
+./CSVs/CSVs__/Supported_facebook/HINDI_predicted_labels.csv

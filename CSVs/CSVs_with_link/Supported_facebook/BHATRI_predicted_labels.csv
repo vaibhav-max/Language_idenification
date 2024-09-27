@@ -1,0 +1,422 @@
+File,Vendor,Asserted_Language,Detected_Language,Probability
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1409140000_CGBTTR_32902_7298_10948.wav,M,BHATRI,Marathi,0.05089716240763664
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1028120000_BHJHAT_161828_5386_8181.wav,M,BHATRI,Mahasu Pahari,0.04032381251454353
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728627_CGBTBC_52074_177_6375.wav,S,BHATRI,Nepali (individual language),0.04237503558397293
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0927490000_BHGGFIM_150481_1648_10797.wav,M,BHATRI,Bengali,0.8442128300666809
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0659450000_CGKDCO_226413_8256_14410.wav,M,BHATRI,Sindhi,0.30972784757614136
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11738275_CGBTBC_45743_5607_13555.wav,S,BHATRI,Marathi,0.9757624268531799
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12377898_CGBTZO_169944_0_11235.wav,S,BHATRI,Nepali (individual language),0.050844933837652206
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12366211_CGBTWAS_45986_0_6605.wav,S,BHATRI,Thangmi,0.054715778678655624
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12364524_CGBTTHP_45953_5050_12236.wav,S,BHATRI,Gujarati,0.8968358635902405
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0852120000_CGBTTA_201230_14347_18450.wav,M,BHATRI,Mahasu Pahari,0.6397160291671753
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12364956_CGBTWAF_20193_0_6636.wav,S,BHATRI,Gujarati,0.22096574306488037
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0841330000_UPVNCO_147755_6323_12661.wav,M,BHATRI,Bhatri,0.05931839346885681
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010361_CGBTHO_130449_7165_18062.wav,S,BHATRI,Wagdi,0.03694736212491989
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12370846_CGBTWAS_88887_312_7175.wav,S,BHATRI,Gujarati,0.26888155937194824
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728395_MRPZO_30468_9908_11413.wav,S,BHATRI,Nepali (individual language),0.44669705629348755
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0702460000_CGBMEX_346495_18423_23081.wav,M,BHATRI,Bhatri,0.79373699426651
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12389329_CGBTVEM_88944_0_8048.wav,S,BHATRI,Bhatri,0.07928577065467834
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12006131_CGBTHT_116471_8_6514.wav,S,BHATRI,Bhatri,0.1393997073173523
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1148180000_CGBTEV_241627_917_10133.wav,M,BHATRI,Gujarati,0.7582354545593262
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12402516_APATHEC_134335_835_10000.wav,S,BHATRI,Marathi,0.9772905707359314
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0935490000_CGBTTE_76780_731_8301.wav,M,BHATRI,Goan Konkani,0.03152676299214363
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_1011300000_CGBTSU_101014_17275_22883.wav,M,BHATRI,Southern Balochi,0.11639474332332611
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0713110000_APATFE_93539_11036_15451.wav,M,BHATRI,Surgujia,0.1275552362203598
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1007470000_CGBTWAF_170335_1327_7285.wav,M,BHATRI,Kalasha,0.25368398427963257
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009497_CGBTGY_76772_5293_13838.wav,S,BHATRI,Bhatri,0.1097123846411705
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1200190000_CGBTZO_169932_18581_23744.wav,M,BHATRI,Marathi,0.06852896511554718
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0634090000_BHBSINCG_127471_1344_6453.wav,M,BHATRI,Marathi,0.9023602604866028
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11727781_CGBTBC_140472_532_3856.wav,S,BHATRI,Nepali (individual language),0.9941613078117371
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1409140000_CGBTTR_32902_17665_23704.wav,M,BHATRI,Bhatri,0.08960519731044769
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0955590000_CGBTOTHER_105173_6621_12796.wav,M,BHATRI,Marathi,0.19925113022327423
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735712_CGBTARS_56881_3772_13794.wav,S,BHATRI,Marathi,0.9708051681518555
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12368893_CGBTWAF_30552_9288_18367.wav,S,BHATRI,Nepali (individual language),0.3586558401584625
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0813510000_CGBTTA_201453_11659_18051.wav,M,BHATRI,Bhatri,0.18838299810886383
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0955590000_CGBTOTHER_105173_934_6202.wav,M,BHATRI,Marathi,0.1314626783132553
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1209030000_TGKPR_203036_960_15061.wav,M,BHATRI,Bengali,0.09946940094232559
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12367594_CGBTWAF_30896_6669_12405.wav,S,BHATRI,Kashmiri,0.09476565569639206
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009659_CGBTMQ_80665_228_6593.wav,S,BHATRI,Nimadi,0.06383362412452698
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12383112_CGBTWAF_32890_5329_11769.wav,S,BHATRI,Nepali (individual language),0.02558092586696148
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0713110000_APATFE_93539_6134_10630.wav,M,BHATRI,Bhatri,0.04763659089803696
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11731790_CGBTBA_301945_498_5111.wav,S,BHATRI,Garifuna,0.2925305664539337
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735940_CGBTAUR_91083_6574_10210.wav,S,BHATRI,Wandala,0.05094127357006073
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12361588_CGBTZO_268162_650_9318.wav,S,BHATRI,Marathi,0.9524629712104797
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728654_CGBTBA_301941_8_6883.wav,S,BHATRI,Nepali (individual language),0.8605908155441284
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1227130000_CGBTBUPS_84446_15808_24213.wav,M,BHATRI,Marathi,0.8989153504371643
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11731618_CGBTAUR_91088_8387_17445.wav,S,BHATRI,Sindhi,0.5219021439552307
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730313_CGBTBE_56344_341_11678.wav,S,BHATRI,Nepali (individual language),0.8217357993125916
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728291_CGBTBA_301928_0_5914.wav,S,BHATRI,Gujarati,0.9860645532608032
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0929470000_CGBTMO_252018_1880_16695.wav,M,BHATRI,Telugu,0.2987152934074402
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12379316_CGBTWAS_86672_0_6627.wav,S,BHATRI,Garhwali,0.3870505392551422
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1029490000_CGBTSH_30951_11285_13877.wav,M,BHATRI,Assamese,0.10419762134552002
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1028120000_BHJHAT_161828_8661_15370.wav,M,BHATRI,Wolof,0.1717289388179779
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1223040000_CGBTRI_20198_19157_24106.wav,M,BHATRI,Gujarati,0.05285373702645302
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008777_CGBTMEC_84113_10784_18959.wav,S,BHATRI,Marathi,0.6535941958427429
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010380_CGBTLI_87871_265_7383.wav,S,BHATRI,Marathi,0.22908683121204376
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1029040000_CGBTPO_264925_4010_11392.wav,M,BHATRI,Surgujia,0.08842908591032028
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12364867_CGBTTES_195171_7633_16823.wav,S,BHATRI,Gujarati,0.45437246561050415
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728395_MRPZO_30468_363_9148.wav,S,BHATRI,Sindhi,0.6028134822845459
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12371733_CGBTTHP_46004_9169_17748.wav,S,BHATRI,Nepali (individual language),0.25166216492652893
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729830_CGBTBA_255778_984_4679.wav,S,BHATRI,Panjabi,0.19902105629444122
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12384209_CGBTWAF_20189_59_8899.wav,S,BHATRI,Gujarati,0.12690934538841248
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0805050000_KTDHVEM_416_5592_12932.wav,M,BHATRI,Bhatri,0.6373719573020935
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0947460000_MRADAF_323701_4969_9912.wav,M,BHATRI,Marathi,0.6023272275924683
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0813510000_CGBTTA_201453_189_6039.wav,M,BHATRI,Bhatri,0.14565949141979218
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0713110000_APATFE_93539_20502_24334.wav,M,BHATRI,Mahasu Pahari,0.19407173991203308
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0951520000_BHVSEV_212744_1358_10913.wav,M,BHATRI,Bengali,0.9939020872116089
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0657360000_JKJCO_370278_3832_7285.wav,M,BHATRI,Maria (India),0.03533010929822922
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1011220000_APVFIM_180018_3994_11490.wav,M,BHATRI,Bhatri,0.09882797300815582
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0821130000_CGBTOTHER_182103_10576_15972.wav,M,BHATRI,Bhatri,0.33709070086479187
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12405326_APCTBA_80677_8_9684.wav,S,BHATRI,Marathi,0.9223339557647705
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729315_CGBTBC_82429_68_3477.wav,S,BHATRI,Sindhi,0.14690370857715607
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12389329_CGBTVEM_88944_8141_14167.wav,S,BHATRI,Garhwali,0.12776969373226166
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11736361_CGBTBC_116648_7001_15685.wav,S,BHATRI,Nepali (individual language),0.23292505741119385
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0848070000_APCTFIM_173764_12742_18281.wav,M,BHATRI,Mahasu Pahari,0.048876166343688965
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12377309_CGBTTR_32902_9805_18645.wav,S,BHATRI,Nepali (individual language),0.7100351452827454
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0702460000_CGBMEX_346495_23636_24733.wav,M,BHATRI,Mahasu Pahari,0.10224507749080658
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728602_WBN24PFO_295559_42_6086.wav,S,BHATRI,Sinhala,0.08450177311897278
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12376405_CGBTWAF_32021_10459_15205.wav,S,BHATRI,Nepali (individual language),0.12744557857513428
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1043260000_APATFLM_84213_544_5866.wav,M,BHATRI,Marathi,0.19121712446212769
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0702460000_CGBMEX_346495_325_8707.wav,M,BHATRI,Bhatri,0.2216615378856659
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12360011_CGBTTE_45888_9334_18227.wav,S,BHATRI,Nepali (individual language),0.3438735008239746
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12012945_CGBTMQ_81232_0_8365.wav,S,BHATRI,Gujarati,0.0693218782544136
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11727781_CGBTBC_140472_3856_14241.wav,S,BHATRI,Bengali,0.21302451193332672
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0949510000_KTCMCS_142668_1822_11075.wav,M,BHATRI,Bengali,0.9932369589805603
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12416669_APCTBR_72923_9160_18799.wav,S,BHATRI,Marathi,0.9395543336868286
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1043260000_APATFLM_84213_12800_15370.wav,M,BHATRI,Somali,0.1829877644777298
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0935340000_CGBTWAF_20187_2554_16640.wav,M,BHATRI,Bengali,0.6215474009513855
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728627_CGBTBC_52074_6548_12454.wav,S,BHATRI,Sinhala,0.9706937074661255
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0808580000_CGBTSR_101198_17143_24388.wav,M,BHATRI,Bhatri,0.41774746775627136
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12361588_CGBTZO_268162_9318_20461.wav,S,BHATRI,Marathi,0.7082892656326294
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728654_CGBTBA_301941_6883_15416.wav,S,BHATRI,Nepali (individual language),0.9982560276985168
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728395_MRPZO_30468_11747_15510.wav,S,BHATRI,Sindhi,0.5939542651176453
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730423_CGBTAT_91242_8_9146.wav,S,BHATRI,Nepali (individual language),0.13470585644245148
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011607_CGBTLK_41627_10034_19359.wav,S,BHATRI,Surgujia,0.06116705760359764
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0824580000_CGBTBR_176159_717_6527.wav,M,BHATRI,Garhwali,0.045562632381916046
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1220150000_KTBCH_320363_14250_24405.wav,M,BHATRI,Marathi,0.5656559467315674
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0852120000_CGBTTA_201230_10975_13968.wav,M,BHATRI,Mahasu Pahari,0.17979612946510315
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11736361_CGBTBC_116648_694_5804.wav,S,BHATRI,Nepali (individual language),0.13733398914337158
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0801590000_TGKIR_79693_14347_19791.wav,M,BHATRI,Bhatri,0.13486723601818085
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12380407_CGBTUN_90991_8_5597.wav,S,BHATRI,Nepali (individual language),0.5464036464691162
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1025180000_CGBTBA_255779_341_4746.wav,M,BHATRI,Aheri Gondi,0.05747745931148529
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729830_CGBTBA_255778_5771_13355.wav,S,BHATRI,Nepali (individual language),0.3427515923976898
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735529_CGBTAUR_91086_8_5098.wav,S,BHATRI,Eastern Tamang,0.5498477816581726
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0852120000_CGBTTA_201230_528_5172.wav,M,BHATRI,Mahasu Pahari,0.20845432579517365
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1216410000_CGBTGY_18498_15637_24554.wav,M,BHATRI,Bhatri,0.4037081003189087
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12367594_CGBTWAF_30896_228_6329.wav,S,BHATRI,Garhwali,0.10044867545366287
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1029490000_CGBTSH_30951_256_9440.wav,M,BHATRI,Sora,0.07662536948919296
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12367200_CGBTTHP_52068_11044_17446.wav,S,BHATRI,Nepali (individual language),0.5121079683303833
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1031510000_TGKPG_15583_8064_16789.wav,M,BHATRI,Surgujia,0.1113290935754776
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12370874_CGBTTNT_207113_8424_14760.wav,S,BHATRI,Nepali (individual language),0.1042349636554718
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_1239410000_CGBTHE_32867_19133_21060.wav,M,BHATRI,Marathi,0.7151406407356262
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12377837_CGBTUN_101020_0_8852.wav,S,BHATRI,Gujarati,0.17742536962032318
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12383112_CGBTWAF_32890_12728_17837.wav,S,BHATRI,Kashmiri,0.07376841455698013
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0616440000_CGBTOTHER_301901_1365_13106.wav,M,BHATRI,Marathi,0.5697423219680786
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010380_CGBTLI_87871_13385_17815.wav,S,BHATRI,Marathi,0.03907875716686249
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1215380000_KTCMPG_114344_853_13952.wav,M,BHATRI,Bhatri,0.3791026473045349
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12370825_CGBTTEP_96666_0_6910.wav,S,BHATRI,Gujarati,0.3527109920978546
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0824580000_CGBTBR_176159_14746_19290.wav,M,BHATRI,Gujarati,0.28369617462158203
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11727355_CGBTAUR_200953_154_7969.wav,S,BHATRI,Sindhi,0.5798196196556091
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730150_WBN24PMU_295255_3056_7494.wav,S,BHATRI,Pushto,0.8298184275627136
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0801590000_TGKIR_79693_10393_13927.wav,M,BHATRI,Bhatri,0.07359721511602402
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1228490000_CGBTTNT_176402_1764_19295.wav,M,BHATRI,Marathi,0.053519636392593384
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0824580000_CGBTBR_176159_9614_14354.wav,M,BHATRI,Marathi,0.27832022309303284
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12383112_CGBTWAF_32890_0_4810.wav,S,BHATRI,Dhatki,0.11845623701810837
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0654450000_BHGGCO_150326_1642_14474.wav,M,BHATRI,Nepali (individual language),0.49211961030960083
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730150_WBN24PMU_295255_7494_13978.wav,S,BHATRI,Marathi,0.3826511800289154
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12370846_CGBTWAS_88887_7548_14548.wav,S,BHATRI,Sindhi,0.08388659358024597
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0657360000_JKJCO_370278_17441_24334.wav,M,BHATRI,Bhatri,0.0324060432612896
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1221420000_CGBTJAT_301795_17770_23701.wav,M,BHATRI,Marathi,0.5803208947181702
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008612_CGBTGY_76771_14434_17741.wav,S,BHATRI,Nepali (individual language),0.08287125825881958
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728291_CGBTBA_301928_6142_14433.wav,S,BHATRI,Nepali (individual language),0.6662982106208801
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010361_CGBTHO_130449_550_7165.wav,S,BHATRI,Mundari,0.06350879371166229
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12364867_CGBTTES_195171_464_7580.wav,S,BHATRI,Gujarati,0.8858580589294434
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0852120000_CGBTTA_201230_5646_10542.wav,M,BHATRI,Bhatri,0.9543971419334412
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011394_CGBTMOT_45979_8_8448.wav,S,BHATRI,Bhatri,0.058428939431905746
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009497_CGBTGY_76772_0_5240.wav,S,BHATRI,Bengali,0.26336514949798584
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1028120000_BHJHAT_161828_320_3850.wav,M,BHATRI,Sinhala,0.30768024921417236
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729315_CGBTBC_82429_10020_13322.wav,S,BHATRI,Georgian,0.15833890438079834
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0958580000_CGBTARS_91113_2089_3250.wav,M,BHATRI,Assamese,0.9941158294677734
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11734015_MRSSK_271486_7481_13271.wav,S,BHATRI,Nepali (individual language),0.13407424092292786
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009885_CGBTHIS_91076_13184_18088.wav,S,BHATRI,Hajong,0.09682748466730118
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729581_CGBTAT_91247_6302_11095.wav,S,BHATRI,Nepali (individual language),0.6096904873847961
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0935490000_CGBTTE_76780_8747_10359.wav,M,BHATRI,Rohingya,0.05496830865740776
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12387014_CGBTZO_90986_4_4303.wav,S,BHATRI,Marathi,0.9743500351905823
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008612_CGBTGY_76771_2180_13895.wav,S,BHATRI,Bhatri,0.20878872275352478
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11733230_CGBTBC_45753_8_3381.wav,S,BHATRI,Saraiki,0.04508066922426224
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0656500000_CGBTRI_32895_1621_14410.wav,M,BHATRI,Bengali,0.5784056782722473
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1042160000_TGKAUR_11940_4693_8032.wav,M,BHATRI,Esperanto,0.5414602160453796
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11732667_CGBTBA_255785_194_9923.wav,S,BHATRI,Nepali (individual language),0.18868355453014374
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0848070000_APCTFIM_173764_21409_23603.wav,M,BHATRI,Mahasu Pahari,0.7970176339149475
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0841330000_UPVNCO_147755_19757_24171.wav,M,BHATRI,Bhatri,0.3629024624824524
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1030510000_CGBTSR_195141_9642_12181.wav,M,BHATRI,Chitwania Tharu,0.0283675417304039
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0659450000_CGKDCO_226413_1578_7509.wav,M,BHATRI,Marathi,0.5205718278884888
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12370806_CGBTWP_167565_8_10212.wav,S,BHATRI,Nepali (individual language),0.978984534740448
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735164_CGBTAT_91218_735_7790.wav,S,BHATRI,Gujarati,0.2558305561542511
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008513_CGBTGY_45840_194_8623.wav,S,BHATRI,Gujarati,0.10064342617988586
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11734820_CGBTBA_301942_198_7183.wav,S,BHATRI,Nepali (individual language),0.3683108389377594
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0713110000_APATFE_93539_15897_20122.wav,M,BHATRI,Maria (India),0.0829053670167923
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1033320000_JKJHE_313387_9333_13269.wav,M,BHATRI,Gujarati,0.07754802703857422
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1210290000_CGBTPO_264916_1600_7722.wav,M,BHATRI,Marathi,0.7029553055763245
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12368893_CGBTWAF_30552_1291_8866.wav,S,BHATRI,Garhwali,0.06982886791229248
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729298_CGBTBC_82222_320_5377.wav,S,BHATRI,Pushto,0.07447746396064758
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1228490000_CGBTTNT_176402_19922_24171.wav,M,BHATRI,Marathi,0.36248868703842163
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1043260000_APATFLM_84213_6666_11541.wav,M,BHATRI,Marathi,0.07895154505968094
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0848070000_APCTFIM_173764_7705_12363.wav,M,BHATRI,Marathi,0.1780475676059723
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12387014_CGBTZO_90986_4370_10617.wav,S,BHATRI,Nepali (individual language),0.8084182143211365
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0609040000_KTCMOTHER_248790_1130_8657.wav,M,BHATRI,Nepali (individual language),0.22867774963378906
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11732595_CGBTBA_255777_3322_16577.wav,S,BHATRI,Nepali (individual language),0.3828394114971161
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1037550000_CGBTRAS_301785_149_4885.wav,M,BHATRI,Telugu,0.3079373836517334
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1031510000_TGKPG_15583_448_4490.wav,M,BHATRI,Marathi,0.26055335998535156
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011171_CGBTMA_41628_12638_16379.wav,S,BHATRI,Dhatki,0.06149676814675331
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12371851_CGBTTES_252045_667_8828.wav,S,BHATRI,Gujarati,0.9454165101051331
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0642170000_BHGGCH_363638_736_15872.wav,M,BHATRI,Marathi,0.8335392475128174
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1007470000_CGBTWAF_170335_15369_18152.wav,M,BHATRI,Duruwa,0.36223360896110535
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009319_CGBTHO_45870_498_9205.wav,S,BHATRI,Marathi,0.049529336392879486
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1032430000_BHJMBC_214449_7221_13824.wav,M,BHATRI,Kannada,0.25059962272644043
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0758030000_CGBTVEM_179612_11808_15247.wav,M,BHATRI,Goan Konkani,0.06928160041570663
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0824580000_CGBTBR_176159_6919_9330.wav,M,BHATRI,Northern Gondi,0.1089756116271019
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009804_CGBTHE_255503_9038_14692.wav,S,BHATRI,Bhatri,0.15125033259391785
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_1239410000_CGBTHE_32867_2101_16683.wav,M,BHATRI,Bengali,0.8038062453269958
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0827210000_CGBTVEM_88684_19472_23995.wav,M,BHATRI,Bhatri,0.18317145109176636
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12006131_CGBTHT_116471_6514_11950.wav,S,BHATRI,Nepali (individual language),0.01809782348573208
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0933140000_BHARCH_352226_14883_17937.wav,M,BHATRI,Bengali,0.9914230704307556
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11732666_CGBTBA_255801_0_9103.wav,S,BHATRI,Nepali (individual language),0.5525707602500916
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735164_CGBTAT_91218_8987_15682.wav,S,BHATRI,Marathi,0.48263469338417053
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11731618_CGBTAUR_91088_0_8387.wav,S,BHATRI,Marathi,0.9228130578994751
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1030510000_CGBTSR_195141_4277_8533.wav,M,BHATRI,Surgujia,0.07343312352895737
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735646_CGBTAT_91217_9658_13700.wav,S,BHATRI,Nepali (individual language),0.9534515738487244
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12416669_APCTBR_72923_8_9159.wav,S,BHATRI,Marathi,0.6329157948493958
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0821130000_CGBTOTHER_182103_16527_19032.wav,M,BHATRI,Marathi,0.026956668123602867
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1152460000_CGBTJAT_301792_16981_24000.wav,M,BHATRI,Fiji Hindi,0.19619646668434143
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008163_CGBTJAT_301804_8_6988.wav,S,BHATRI,Marathi,0.8448334336280823
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12380407_CGBTUN_90991_5852_18892.wav,S,BHATRI,Nepali (individual language),0.1864182949066162
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0852120000_CGBTTA_201230_18775_24341.wav,M,BHATRI,Marathi,0.41445037722587585
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008214_CGBTLI_268313_1510_13583.wav,S,BHATRI,Gujarati,0.19633759558200836
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11734820_CGBTBA_301942_7203_14111.wav,S,BHATRI,Nepali (individual language),0.741644024848938
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0824580000_CGBTBR_176159_20007_24855.wav,M,BHATRI,Bhatri,0.04467598721385002
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11733020_CGBTBA_301939_329_6927.wav,S,BHATRI,Telugu,0.41270187497138977
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0647490000_CGBTHC_176410_821_13184.wav,M,BHATRI,Marathi,0.5720205903053284
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11731790_CGBTBA_301945_5236_15473.wav,S,BHATRI,Nepali (individual language),0.4256715178489685
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1148180000_CGBTEV_241627_10986_24661.wav,M,BHATRI,Halbi,0.48419156670570374
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12379085_CGBTVEM_179836_734_10013.wav,S,BHATRI,Gujarati,0.9477287530899048
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12369490_CGBTTD_167288_8_11898.wav,S,BHATRI,Gujarati,0.22982877492904663
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12371733_CGBTTHP_46004_5090_8693.wav,S,BHATRI,Nepali (individual language),0.5680066347122192
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12386134_CGBTWP_167558_7500_13413.wav,S,BHATRI,Marathi,0.1089051142334938
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_1002370000_TGNLMT_14794_17159_22778.wav,M,BHATRI,Bengali,0.9724818468093872
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12366211_CGBTWAS_45986_6946_11796.wav,S,BHATRI,Kashmiri,0.18250931799411774
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1040190000_CGBTDM_20231_5472_14826.wav,M,BHATRI,Marathi,0.21533401310443878
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011394_CGBTMOT_45979_8504_13689.wav,S,BHATRI,Kurukh,0.0830330029129982
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11738048_CGBTBA_79547_46_4624.wav,S,BHATRI,Gurung,0.0837969034910202
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010380_CGBTLI_87871_7383_13135.wav,S,BHATRI,Panjabi,0.4893445074558258
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12388386_APATFLM_84213_852_9712.wav,S,BHATRI,Hindi,0.21174804866313934
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1011220000_APVFIM_180018_11842_18572.wav,M,BHATRI,Goan Konkani,0.07576081156730652
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729581_CGBTAT_91247_118_6266.wav,S,BHATRI,Kannada,0.31204116344451904
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735529_CGBTAUR_91086_5098_15232.wav,S,BHATRI,Telugu,0.5972275733947754
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11727355_CGBTAUR_200953_8365_15067.wav,S,BHATRI,Nepali (individual language),0.48747560381889343
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0758030000_CGBTVEM_179612_15694_20447.wav,M,BHATRI,Wolof,0.050684183835983276
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12379085_CGBTVEM_179836_10013_19955.wav,S,BHATRI,Surgujia,0.033356621861457825
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729065_CGBTAUR_179598_6293_15006.wav,S,BHATRI,Gujarati,0.8844006061553955
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730136_CGBTAC_45859_8592_15403.wav,S,BHATRI,Marathi,0.5575894117355347
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12411762_APATFE_93543_0_7534.wav,S,BHATRI,Marathi,0.5482727885246277
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12007538_CGBTHO_52166_83_8157.wav,S,BHATRI,Marathi,0.6645509004592896
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728344_CGBTAT_252762_339_8121.wav,S,BHATRI,Nepali (individual language),0.8561561107635498
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11731429_CGBTBA_301924_10883_15059.wav,S,BHATRI,Nepali (individual language),0.9160752296447754
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0657360000_JKJCO_370278_7623_12011.wav,M,BHATRI,Bhatri,0.12281744182109833
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0805050000_KTDHVEM_416_23650_24880.wav,M,BHATRI,Mahasu Pahari,0.12830686569213867
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0702460000_CGBMEX_346495_12092_18017.wav,M,BHATRI,Bhatri,0.46838873624801636
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0657360000_JKJCO_370278_12336_16602.wav,M,BHATRI,Mahasu Pahari,0.03520673140883446
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11733020_CGBTBA_301939_7082_11580.wav,S,BHATRI,Bengali,0.7743416428565979
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728085_CGBTAUR_76601_277_9537.wav,S,BHATRI,Gujarati,0.7287539839744568
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008612_CGBTGY_76771_8_1969.wav,S,BHATRI,Mundari,0.24312055110931396
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0627550000_CGKDBO_280051_1045_3451.wav,M,BHATRI,Marathi,0.3094608187675476
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0713110000_APATFE_93539_731_5741.wav,M,BHATRI,Bhatri,0.11552394926548004
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_1210370000_CGBTPP_88668_2066_10309.wav,M,BHATRI,Gujarati,0.4808863699436188
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0947460000_MRADAF_323701_582_4861.wav,M,BHATRI,Surgujia,0.22318501770496368
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009885_CGBTHIS_91076_0_12894.wav,S,BHATRI,Bhatri,0.14043854176998138
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735940_CGBTAUR_91083_0_6574.wav,S,BHATRI,Gujarati,0.8097288608551025
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0813510000_CGBTTA_201453_18552_24036.wav,M,BHATRI,Goan Konkani,0.04404812678694725
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008163_CGBTJAT_301804_6988_14465.wav,S,BHATRI,Marathi,0.45339322090148926
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1200190000_CGBTZO_169932_1280_18048.wav,M,BHATRI,Marathi,0.3629263937473297
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1409140000_CGBTTR_32902_812_6743.wav,M,BHATRI,Mahasu Pahari,0.07004685699939728
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010649_CGBTHT_140729_13050_18695.wav,S,BHATRI,Marathi,0.09581119567155838
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12361866_CGBTTE_52140_11295_18950.wav,S,BHATRI,Nepali (individual language),0.7329266667366028
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11732595_CGBTBA_255777_0_2645.wav,S,BHATRI,Sindhi,0.4847756326198578
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11727812_CGBTBA_301955_6003_12923.wav,S,BHATRI,Nepali (individual language),0.634333074092865
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1032430000_BHJMBC_214449_330_6784.wav,M,BHATRI,Marathi,0.33168357610702515
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1232530000_CGBTHEC_104804_17322_23684.wav,M,BHATRI,Marathi,0.8664233684539795
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735712_CGBTARS_56881_60_3719.wav,S,BHATRI,Gujarati,0.3447607457637787
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728344_CGBTAT_252762_8182_13346.wav,S,BHATRI,Gujarati,0.3500370383262634
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009804_CGBTHE_255503_1755_8255.wav,S,BHATRI,Gujarati,0.3526657819747925
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1033320000_JKJHE_313387_672_3061.wav,M,BHATRI,Marathi,0.9222532510757446
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0949510000_KTCMCS_142668_12051_22523.wav,M,BHATRI,Bengali,0.45054367184638977
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12376405_CGBTWAF_32021_8_10359.wav,S,BHATRI,Gujarati,0.3233024477958679
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11733230_CGBTBC_45753_3388_13885.wav,S,BHATRI,Nepali (individual language),0.5797430872917175
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008777_CGBTMEC_84113_278_10433.wav,S,BHATRI,Nepali (individual language),0.07778722047805786
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12378865_CGBTTES_271004_6646_17019.wav,S,BHATRI,Garhwali,0.13138508796691895
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12370825_CGBTTEP_96666_7185_16791.wav,S,BHATRI,Gujarati,0.44576048851013184
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730313_CGBTBE_56344_12498_18546.wav,S,BHATRI,Nepali (individual language),0.8972685933113098
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1027080000_CGBTPG_85007_426_5258.wav,M,BHATRI,Bhatri,0.08698154985904694
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1209030000_TGKPR_203036_15701_23914.wav,M,BHATRI,Marathi,0.8085591793060303
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11732667_CGBTBA_255785_10705_15345.wav,S,BHATRI,Nepali (individual language),0.937110960483551
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0702460000_CGBMEX_346495_9384_11591.wav,M,BHATRI,Gogodala,0.018667444586753845
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11735646_CGBTAT_91217_130_9170.wav,S,BHATRI,Kannada,0.1693907529115677
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0827210000_CGBTVEM_88684_7542_14645.wav,M,BHATRI,Santali,0.06319784373044968
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1409140000_CGBTTR_32902_11503_16988.wav,M,BHATRI,Marathi,0.03386140987277031
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11738280_CGBTBA_255794_7833_14599.wav,S,BHATRI,Nepali (individual language),0.3451554775238037
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0758030000_CGBTVEM_179612_514_6703.wav,M,BHATRI,Bhatri,0.054977163672447205
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0801590000_TGKIR_79693_650_9824.wav,M,BHATRI,Pushto,0.4037903845310211
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12366626_CGBTTNT_176397_700_8263.wav,S,BHATRI,Pushto,0.2344961166381836
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12386134_CGBTWP_167558_8_7500.wav,S,BHATRI,Gujarati,0.49088746309280396
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12364524_CGBTTHP_45953_0_4709.wav,S,BHATRI,Marathi,0.07780396193265915
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1036530000_BHGJBU_4737_330_6112.wav,M,BHATRI,Manipuri,0.21187849342823029
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0955590000_CGBTOTHER_105173_13121_19134.wav,M,BHATRI,Marathi,0.04738575220108032
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0939580000_BHGGFE_363800_3157_16822.wav,M,BHATRI,Bengali,0.1222587451338768
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12411762_APATFE_93543_7699_18997.wav,S,BHATRI,Gujarati,0.4207041263580322
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0808580000_CGBTSR_101198_10440_16717.wav,M,BHATRI,Bhatri,0.15600073337554932
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11731429_CGBTBA_301924_0_10118.wav,S,BHATRI,Nepali (individual language),0.7708726525306702
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12377309_CGBTTR_32902_987_9426.wav,S,BHATRI,Gujarati,0.13358744978904724
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010649_CGBTHT_140729_785_12685.wav,S,BHATRI,Goan Konkani,0.06264130771160126
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0955590000_CGBTOTHER_105173_19513_24440.wav,M,BHATRI,Maria (India),0.05848966911435127
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_1001280000_CGBTFA_255519_19829_23219.wav,M,BHATRI,Assamese,0.492944598197937
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12380942_CGBTTR_181796_9079_17635.wav,S,BHATRI,Garhwali,0.07405983656644821
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12004719_CGBTLK_31777_0_7540.wav,S,BHATRI,Kashmiri,0.004668707959353924
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0841330000_UPVNCO_147755_744_5985.wav,M,BHATRI,Marathi,0.3827187418937683
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0801590000_TGKIR_79693_20414_24800.wav,M,BHATRI,Marathi,0.3248160183429718
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11732648_CGBTBA_255780_7343_17643.wav,S,BHATRI,Garhwali,0.0927966833114624
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1007470000_CGBTWAF_170335_19466_24733.wav,M,BHATRI,Goan Konkani,0.05038445070385933
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008513_CGBTGY_45840_8947_14151.wav,S,BHATRI,Mahasu Pahari,0.11189553886651993
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12378865_CGBTTES_271004_8_6538.wav,S,BHATRI,Pushto,0.7442553043365479
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_1011300000_CGBTSU_101014_1277_13537.wav,M,BHATRI,Bengali,0.9718247056007385
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0758030000_CGBTVEM_179612_7028_11483.wav,M,BHATRI,Marathi,0.07728131115436554
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12371851_CGBTTES_252045_8828_18668.wav,S,BHATRI,Gujarati,0.2978115975856781
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1037550000_CGBTRAS_301785_5301_13568.wav,M,BHATRI,Sora,0.08252841234207153
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12388386_APATFLM_84213_10066_19955.wav,S,BHATRI,Telugu,0.7232815623283386
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0657360000_JKJCO_370278_595_3439.wav,M,BHATRI,Mahasu Pahari,0.027291687205433846
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0808580000_CGBTSR_101198_5376_10007.wav,M,BHATRI,Mundari,0.09483247250318527
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0934120000_CGBTMA_41628_2890_13339.wav,M,BHATRI,Bengali,0.8971242904663086
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12384209_CGBTWAF_20189_9204_15659.wav,S,BHATRI,Sonha,0.057561781257390976
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1142430000_CGBTAMP_150220_1280_12650.wav,M,BHATRI,Marathi,0.13986018300056458
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12377898_CGBTZO_169944_11328_19023.wav,S,BHATRI,Nepali (individual language),0.23051492869853973
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12361866_CGBTTE_52140_0_10530.wav,S,BHATRI,Gujarati,0.562531054019928
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11727812_CGBTBA_301955_110_5851.wav,S,BHATRI,Mahasu Pahari,0.1149177998304367
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11738048_CGBTBA_79547_4707_13964.wav,S,BHATRI,Bhatri,0.19203555583953857
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1036530000_BHGJBU_4737_7317_14837.wav,M,BHATRI,Aheri Gondi,0.14754100143909454
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730150_WBN24PMU_295255_307_3056.wav,S,BHATRI,Marathi,0.7426557540893555
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011171_CGBTMA_41628_428_5100.wav,S,BHATRI,Northern Emberá,0.016084440052509308
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1039000000_CGBTRI_20235_234_9034.wav,M,BHATRI,Mahasu Pahari,0.1965714544057846
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12012106_CGBTMOT_140845_8169_17226.wav,S,BHATRI,Bhatri,0.05458877235651016
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11732666_CGBTBA_255801_9118_16065.wav,S,BHATRI,Nepali (individual language),0.97099369764328
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12405326_APCTBA_80677_9760_20050.wav,S,BHATRI,Marathi,0.6568266153335571
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1230100000_CGBTJAT_301790_20038_24032.wav,M,BHATRI,Goan Konkani,0.1202322244644165
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1216410000_CGBTGY_18498_1194_15210.wav,M,BHATRI,Marathi,0.4763067066669464
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730423_CGBTAT_91242_9146_13500.wav,S,BHATRI,Nepali (individual language),0.4617222547531128
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0841330000_UPVNCO_147755_13040_19378.wav,M,BHATRI,Sindhi,0.10056363046169281
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12364524_CGBTTHP_45953_12435_18284.wav,S,BHATRI,Pushto,0.44660335779190063
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12402516_APATHEC_134335_10001_20461.wav,S,BHATRI,Marathi,0.9876610040664673
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12005790_CGBTHT_116956_8090_17507.wav,S,BHATRI,Bhatri,0.23308046162128448
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12371509_CGBTTE_52121_0_7219.wav,S,BHATRI,Gujarati,0.9799597263336182
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0956240000_CGBTEV_167002_8440_22012.wav,M,BHATRI,Telugu,0.15592476725578308
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12008214_CGBTLI_268313_13873_18485.wav,S,BHATRI,Nepali (individual language),0.3492622971534729
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009659_CGBTMQ_80665_6783_13789.wav,S,BHATRI,Goan Konkani,0.09671615809202194
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12012945_CGBTMQ_81232_8715_17618.wav,S,BHATRI,Kashmiri,0.024284381419420242
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12007538_CGBTHO_52166_8325_16280.wav,S,BHATRI,Gujarati,0.8806121945381165
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1039000000_CGBTRI_20235_10400_15616.wav,M,BHATRI,Wagdi,0.10243502259254456
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1042160000_TGKAUR_11940_213_4085.wav,M,BHATRI,Hindi,0.47303515672683716
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729315_CGBTBC_82429_3688_9946.wav,S,BHATRI,Nepali (individual language),0.8835997581481934
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728602_WBN24PFO_295559_6086_13388.wav,S,BHATRI,Marathi,0.24381008744239807
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11730136_CGBTAC_45859_0_8592.wav,S,BHATRI,Sinhala,0.6065297722816467
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011596_CGBTLI_170138_9959_17231.wav,S,BHATRI,Aheri Gondi,0.05996241047978401
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1031510000_TGKPG_15583_5109_7541.wav,M,BHATRI,Mundari,0.04889824241399765
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12370806_CGBTWP_167565_10212_20137.wav,S,BHATRI,Nepali (individual language),0.4752707779407501
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12005790_CGBTHT_116956_8_7700.wav,S,BHATRI,Marathi,0.21054795384407043
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12380942_CGBTTR_181796_0_8746.wav,S,BHATRI,Gujarati,0.6819018721580505
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0947460000_MRADAF_323701_13277_20061.wav,M,BHATRI,Bhatri,0.4352430999279022
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1154050000_CGBTBIS_207923_9237_23637.wav,M,BHATRI,Gujarati,0.8382419943809509
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12387014_CGBTZO_90986_10617_17771.wav,S,BHATRI,Nepali (individual language),0.19903816282749176
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1230100000_CGBTJAT_301790_998_19040.wav,M,BHATRI,Marathi,0.054375339299440384
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009804_CGBTHE_255503_0_1755.wav,S,BHATRI,Turkmen,0.1423388570547104
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729298_CGBTBC_82222_9676_13439.wav,S,BHATRI,Nepali (individual language),0.9854000210762024
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0821130000_CGBTOTHER_182103_365_5200.wav,M,BHATRI,Marathi,0.4025101959705353
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729167_WBPLTES_156851_5431_12584.wav,S,BHATRI,Nepali (individual language),0.845984697341919
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1142430000_CGBTAMP_150220_13973_24234.wav,M,BHATRI,Gujarati,0.7647359371185303
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12012106_CGBTMOT_140845_11_8169.wav,S,BHATRI,Hindi,0.07095355540513992
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0705540000_BHJHBC_310305_1152_9354.wav,M,BHATRI,Sindhi,0.8401070833206177
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12379316_CGBTWAS_86672_6627_12177.wav,S,BHATRI,Garhwali,0.20246107876300812
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1152460000_CGBTJAT_301792_1898_16149.wav,M,BHATRI,Halbi,0.40628066658973694
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12371509_CGBTTE_52121_7220_16883.wav,S,BHATRI,Marathi,0.5314095616340637
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0821130000_CGBTOTHER_182103_5673_10278.wav,M,BHATRI,Tagin,0.051821473985910416
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729065_CGBTAUR_179598_22_6293.wav,S,BHATRI,Aheri Gondi,0.09141718596220016
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0702300000_CGBTBU_100901_234_11872.wav,M,BHATRI,Nepali (individual language),0.33057376742362976
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1040190000_CGBTDM_20231_1024_4853.wav,M,BHATRI,Marathi,0.055565133690834045
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12366626_CGBTTNT_176397_8263_16462.wav,S,BHATRI,Nepali (individual language),0.4051018953323364
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12367594_CGBTWAF_30896_12538_18270.wav,S,BHATRI,Garhwali,0.2263556867837906
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011171_CGBTMA_41628_5100_12585.wav,S,BHATRI,Mundari,0.06766851991415024
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1042160000_TGKAUR_11940_8970_14304.wav,M,BHATRI,Aheri Gondi,0.4953441619873047
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0826350000_CGBTCA_196163_12770_16323.wav,M,BHATRI,Bhatri,0.13230358064174652
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12385721_CGBTWAS_86797_0_9510.wav,S,BHATRI,Marathi,0.11384234577417374
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12428864_APATKUM_156499_12545_19820.wav,S,BHATRI,Oromo,0.2704705595970154
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12375495_CGBTTNT_207100_8294_16359.wav,S,BHATRI,Nimadi,0.04818145930767059
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12375495_CGBTTNT_207100_0_7664.wav,S,BHATRI,Garhwali,0.15189912915229797
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0808580000_CGBTSR_101198_826_5064.wav,M,BHATRI,Bhili,0.05956216901540756
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0813510000_CGBTTA_201453_6418_11036.wav,M,BHATRI,Sonha,0.060290027409791946
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009659_CGBTMQ_80665_14113_17527.wav,S,BHATRI,Balti,0.0067183333449065685
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010192_CGBTHO_45928_0_8288.wav,S,BHATRI,Bengali,0.049707282334566116
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11738275_CGBTBC_45743_8_5598.wav,S,BHATRI,Telugu,0.6067995429039001
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12002667_CGBTHO_45965_10479_17898.wav,S,BHATRI,Bhatri,0.10473815351724625
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0924010000_BHCO_134943_9067_10402.wav,M,BHATRI,Nepali (individual language),0.09652958065271378
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12380273_CGBTUN_32161_987_7321.wav,S,BHATRI,Nepali (individual language),0.8169580698013306
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12360011_CGBTTE_45888_160_8968.wav,S,BHATRI,Sindhi,0.33553346991539
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0951090000_CGBTLI_268315_1880_14187.wav,M,BHATRI,Bengali,0.6760455965995789
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1027080000_CGBTPG_85007_6165_12309.wav,M,BHATRI,Hindi,0.17900079488754272
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729830_CGBTBA_255778_14091_17335.wav,S,BHATRI,Nepali (individual language),0.8971048593521118
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1011220000_APVFIM_180018_18965_24652.wav,M,BHATRI,Surgujia,0.026962196454405785
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12370874_CGBTTNT_207113_0_8338.wav,S,BHATRI,Garhwali,0.1509244292974472
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0934120000_CGBTMA_41628_15615_20085.wav,M,BHATRI,Bengali,0.6746920347213745
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1026140000_CGBTBR_91143_362_6272.wav,M,BHATRI,Kashmiri,0.06760288774967194
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011596_CGBTLI_170138_97_9941.wav,S,BHATRI,Bhatri,0.05186432600021362
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12005028_CGBTHO_52521_7467_15344.wav,S,BHATRI,Marathi,0.21561621129512787
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0805050000_KTDHVEM_416_13297_18288.wav,M,BHATRI,Northwestern Kolami,0.08863888680934906
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0947460000_MRADAF_323701_10291_13033.wav,M,BHATRI,Santali,0.010672230273485184
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_0826350000_CGBTCA_196163_7151_10971.wav,M,BHATRI,Bengali,0.6858110427856445
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11738280_CGBTBA_255794_186_7566.wav,S,BHATRI,Nepali (individual language),0.9447392225265503
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1159060000_CGBTDAF_206402_18325_23829.wav,M,BHATRI,Marathi,0.2785192131996155
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12004719_CGBTLK_31777_8010_14732.wav,S,BHATRI,Gujarati,0.25809523463249207
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11728085_CGBTAUR_76601_9652_13665.wav,S,BHATRI,Telugu,0.8954336643218994
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0805050000_KTDHVEM_416_473_5186.wav,M,BHATRI,Marathi,0.3721843361854553
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12367200_CGBTTHP_52068_734_10964.wav,S,BHATRI,Marathi,0.6029691696166992
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1007470000_CGBTWAF_170335_7705_15044.wav,M,BHATRI,Northwestern Kolami,0.10343143343925476
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0634090000_BHBSINCG_127471_7957_15360.wav,M,BHATRI,Nepali (individual language),0.8506866097450256
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1030510000_CGBTSR_195141_266_3029.wav,M,BHATRI,Kurukh,0.18607519567012787
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12002667_CGBTHO_45965_50_10404.wav,S,BHATRI,Halbi,0.4531000852584839
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0848070000_APCTFIM_173764_419_7217.wav,M,BHATRI,Maria (India),0.07427696138620377
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12377837_CGBTUN_101020_9248_18204.wav,S,BHATRI,Nepali (individual language),0.46400052309036255
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11734015_MRSSK_271486_136_7431.wav,S,BHATRI,Sindhi,0.22423243522644043
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729298_CGBTBC_82222_5377_9676.wav,S,BHATRI,Nepali (individual language),0.9652240872383118
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12010192_CGBTHO_45928_8539_18540.wav,S,BHATRI,Marathi,0.6264210343360901
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0827210000_CGBTVEM_88684_15105_19188.wav,M,BHATRI,Bhatri,0.05122440680861473
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12380273_CGBTUN_32161_7321_18858.wav,S,BHATRI,Gujarati,0.9971460700035095
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12364956_CGBTWAF_20193_6736_13911.wav,S,BHATRI,Mahasu Pahari,0.15870623290538788
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0848070000_APCTFIM_173764_18701_20854.wav,M,BHATRI,Santali,0.04046646133065224
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122047_12428864_APATKUM_156499_548_11344.wav,S,BHATRI,Nepali (individual language),0.6667414903640747
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12005028_CGBTHO_52521_31_6796.wav,S,BHATRI,Marathi,0.041432734578847885
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1026140000_CGBTBR_91143_7125_11701.wav,M,BHATRI,Mahasu Pahari,0.21561744809150696
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1232530000_CGBTHEC_104804_2925_16950.wav,M,BHATRI,Bhatri,0.27731651067733765
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12371733_CGBTTHP_46004_346_4960.wav,S,BHATRI,Sindhi,0.5690956115722656
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1240540000_CGBTGA_20208_17089_24404.wav,M,BHATRI,Marathi,0.0816226378083229
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1154050000_CGBTBIS_207923_1472_8064.wav,M,BHATRI,Wagdi,0.11509384959936142
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11732648_CGBTBA_255780_245_5642.wav,S,BHATRI,Murrinh-Patha,0.01177543867379427
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Dine20526_1012420000_CGBTWAF_32021_9392_22999.wav,M,BHATRI,Panjabi,0.2814112901687622
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0947460000_MRADAF_323701_20671_23948.wav,M,BHATRI,Gurung,0.025046002119779587
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12009319_CGBTHO_45870_9424_18914.wav,S,BHATRI,Marathi,0.8925361633300781
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0827210000_CGBTVEM_88684_453_7190.wav,M,BHATRI,Maria (India),0.08976609259843826
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_1011220000_APVFIM_180018_622_3547.wav,M,BHATRI,Bhatri,0.03766202554106712
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_120428_12011607_CGBTLK_41627_110_9760.wav,S,BHATRI,Halbi,0.25078749656677246
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0805050000_KTDHVEM_416_18924_23108.wav,M,BHATRI,Mahasu Pahari,0.22751541435718536
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0821130000_CGBTOTHER_182103_19885_24828.wav,M,BHATRI,Bhatri,0.5946677327156067
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_122035_12370846_CGBTWAS_88887_14906_19181.wav,S,BHATRI,Gujarati,0.412331223487854
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_79409_1025180000_CGBTBA_255779_6293_10250.wav,M,BHATRI,Marathi,0.18252715468406677
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_S_Chhattisgarh_Bastar_113463_11729167_WBPLTES_156851_0_5431.wav,S,BHATRI,Nepali (individual language),0.15108154714107513
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_70328636_0627550000_CGKDBO_280051_4864_13350.wav,M,BHATRI,Marathi,0.9331960082054138
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Chet96852_0758030000_CGBTVEM_179612_21125_24440.wav,M,BHATRI,Khowar,0.17016084492206573
+https://vaani.iisc.ac.in/Audios/Bastar/IISc_VaaniProject_M_CG_Bastar_Hemr95156_1215380000_KTCMPG_114344_14506_23701.wav,M,BHATRI,Marathi,0.47963276505470276
