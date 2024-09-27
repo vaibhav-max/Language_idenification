@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Find and list large files
-LARGE_FILES=$(find . -type f -size +100M)
+LARGE_FILES=$(find . -type f -size +49M)
 
 # Check if there are any large files
 if [ -z "$LARGE_FILES" ]; then
